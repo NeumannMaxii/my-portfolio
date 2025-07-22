@@ -3,7 +3,7 @@ function Resume({ lang, texts }) {
     <section id="resume">
       <h2>{texts.title}</h2>
       <a
-        href={`${import.meta.env.BASE_URL}cv.pdf`}
+        href={`${import.meta.env.BASE_URL}cv-maximiliano.pdf`}
         download
         target="_blank"
         rel="noopener noreferrer"
